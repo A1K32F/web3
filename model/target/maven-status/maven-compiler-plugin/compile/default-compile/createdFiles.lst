@@ -1,0 +1,8 @@
+webprog3\model\Uzemanyag.class
+exceptions\InvalidEvjarat.class
+webprog3\model\Allapot.class
+webprog3\model\InvalidRendszam.class
+webprog3\model\Kivitel.class
+webprog3\model\InvalidSzinkod.class
+webprog3\model\Szinezes.class
+webprog3\model\Kocsi.class
